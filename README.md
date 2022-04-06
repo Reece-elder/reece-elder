@@ -1,6 +1,6 @@
-<p align="center"><img src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="300"/></p>
+<p align="left"><img src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="300"/></p>
 
-<h1 align="center"> Hey, I'm Reece 👋 </h1>
+<h1 align="left"> Hey, I'm Reece 👋 </h1>
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
