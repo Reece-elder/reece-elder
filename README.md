@@ -1,10 +1,11 @@
-<p align="left"><img src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="300"/></p>
+<h1 style="float: left;"> Hey, I'm Reece 👋 </h1>
 
-<h1 align="left"> Hey, I'm Reece 👋 </h1>
+<div>
+  <h3 align="right" class="now-playing"> Now Playing 🎵ㅤㅤㅤ ㅤㅤ      </h3>
+  <img src="https://spotify-now-playing-reece-bfiqk8gqi-reece-elder.vercel.app/now-playing" width="480" align = "right"/>
+</div>
 
-| 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://spotify-now-playing-reece-bfiqk8gqi-reece-elder.vercel.app/now-playing?open"><img src="https://spotify-now-playing-reece-bfiqk8gqi-reece-elder.vercel.app/now-playing" width="480" height="64"></a> |
+
 
 ### 📝 All About me: 
 
