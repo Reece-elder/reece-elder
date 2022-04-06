@@ -1,12 +1,5 @@
 <h1 style="float: left;"> Hey, I'm Reece 👋 </h1>
 
-<div>
-  <h3 align="right" class="now-playing"> Now Playing 🎵ㅤㅤㅤ ㅤㅤ      </h3>
-  <img src="https://spotify-now-playing-reece-bfiqk8gqi-reece-elder.vercel.app/now-playing" width="480" align = "right"/>
-</div>
-
-
-
 ### 📝 All About me: 
 
 I am messing around with full stack development and UX from 🐉 Wales
@@ -17,6 +10,14 @@ I am messing around with full stack development and UX from 🐉 Wales
 - ☁️ Experience with AWS infrastucture as well as entry level GCP and Azure
 - 🎲 Into Boardgaming, tabletop gaming, card gaming.. All of that stuff 🤷‍♂️
 - 📫 Contact me via [![Linkedin Badge](https://img.shields.io/badge/-reece-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reece-elder/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:reece.elder@gmail.com) 
+<br>
+
+<div>
+  <h3 class="now-playing"> Now Playing 🎵ㅤㅤㅤ ㅤㅤ      </h3>
+  <img src="https://spotify-now-playing-reece-bfiqk8gqi-reece-elder.vercel.app/now-playing" width="480"/>
+  <br>
+  
+</div>
 <br>
 
 
