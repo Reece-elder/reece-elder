@@ -12,36 +12,6 @@ I am messing around with full stack development and UX from 🐉 Wales
 - 📫 Contact me via [![Linkedin Badge](https://img.shields.io/badge/-reece-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reece-elder/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:reece.elder@gmail.com) 
 <br>
 
-<div>
-  <h3 class="now-playing"> Now Playing 🎵ㅤㅤㅤ ㅤㅤ      </h3>
-  <img src="https://spotify-now-playing-reece-bfiqk8gqi-reece-elder.vercel.app/now-playing" width="480"/>
-  <br>
-  
-</div>
-<br>
-
-
-<table>
-  <thead>
-    <tr>
-      <th>📈 Top Tracks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://spotify-now-playing-reece-bfiqk8gqi-reece-elder.vercel.app/top-tracks?i=1&open"><img src="https://spotify-now-playing-reece-bfiqk8gqi-reece-elder.vercel.app/top-tracks?i=1" width="480" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://spotify-now-playing-reece-bfiqk8gqi-reece-elder.vercel.app/top-tracks?i=2&open"><img src="https://spotify-now-playing-reece-bfiqk8gqi-reece-elder.vercel.app/top-tracks?i=2" width="480" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://spotify-now-playing-reece-bfiqk8gqi-reece-elder.vercel.app/top-tracks?i=3&open"><img src="https://spotify-now-playing-reece-bfiqk8gqi-reece-elder.vercel.app/top-tracks?i=3" width="480" height="64"></a></td>
-    </tr>
-  </tbody>
-</table>
-
 ### 🛠️ Software Dev Technologies: 
 
 <p>
